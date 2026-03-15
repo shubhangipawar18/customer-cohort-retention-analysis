@@ -90,18 +90,18 @@ This produced a dataset used to build retention matrices.
 The dashboard includes:
 
 #### Cohort Retention Heatmap          
-![Cohort Retention Heatmap].(Images/cohort_heatmap.png)
+![Cohort Retention Heatmap](Images/cohort_heatmap.png).
 
 Shows how customer retention changes across different cohorts over time.
 
 
 #### Customer Acquisition Trend
-![Customer Acquisition Trend].(Images/Customer_Acquisition_Trend.png)
+![Customer Acquisition Trend](Images/Customer_Acquisition_Trend.png)
 
 Displays how many new customers were acquired each month.
 
 #### Retention Curve
-![Retention Curve].(Images/retention.curve.png)
+![Retention Curve](Images/retention_curve.png)
 
 Shows the average retention trend across all cohorts.
 
