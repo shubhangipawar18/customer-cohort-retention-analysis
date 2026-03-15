@@ -1,5 +1,6 @@
 # Customer Cohort & Retention Analysis
-
+Tech Stack  
+Python | PostgreSQL | Power BI
 ## Project Overview
 
 Understanding how customers return over time is essential for measuring product engagement and business growth.
