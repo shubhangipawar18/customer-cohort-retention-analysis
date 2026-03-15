@@ -61,7 +61,7 @@ After cleaning and preprocessing, the dataset was used to build cohort groups ba
 
 ## Analysis Process
 
-### 1 Data Cleaning
+### 1. Data Cleaning
 
 Using **Python (Pandas)**:
 
@@ -72,7 +72,7 @@ Using **Python (Pandas)**:
 
 ---
 
-### 2 Cohort Analysis (SQL)
+### 2. Cohort Analysis (SQL)
 
 Using PostgreSQL:
 
@@ -85,19 +85,23 @@ This produced a dataset used to build retention matrices.
 
 ---
 
-### 3 Power BI Dashboard
+### 3. Power BI Dashboard
 
 The dashboard includes:
 
-#### Cohort Retention Heatmap
+#### Cohort Retention Heatmap          
+![Cohort Retention Heatmap].(Images/cohort_heatmap.png)
 
 Shows how customer retention changes across different cohorts over time.
 
+
 #### Customer Acquisition Trend
+![Customer Acquisition Trend].(Images/Customer_Acquisition_Trend.png)
 
 Displays how many new customers were acquired each month.
 
 #### Retention Curve
+![Retention Curve].(Images/retention.curve.png)
 
 Shows the average retention trend across all cohorts.
 
@@ -168,7 +172,10 @@ This enables quick identification of **customer lifecycle behavior and engagemen
 
 ---
 
-## Author
+
+## 👤 Author
 
 **Shubhangi Pawar**
-Data Analyst | SQL | Power BI | Tableau | Python
+
+- 📧 Email: ishubhangipawar@gmail.com
+- 💼 LinkedIn: [linkedin.com/in/shubhangipawar18
