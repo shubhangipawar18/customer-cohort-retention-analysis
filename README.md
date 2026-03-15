@@ -13,7 +13,7 @@ The analysis identifies how well customer groups (cohorts) retain over time and 
 
 ### Customer Cohort Retention Dashboard
 
-![Dashboard Overview](images/dashboard_overview.png)
+![Dashboard Overview](Images/dashboard_interaction.gif)
 
 ---
 
