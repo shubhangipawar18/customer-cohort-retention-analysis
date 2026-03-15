@@ -90,7 +90,7 @@ This produced a dataset used to build retention matrices.
 The dashboard includes:
 
 #### Cohort Retention Heatmap          
-![Cohort Retention Heatmap](Images/cohort_heatmap.png).
+![Cohort Retention Heatmap](Images/cohort_heatmap.png)
 
 Shows how customer retention changes across different cohorts over time.
 
